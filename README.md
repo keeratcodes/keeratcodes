@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7D2A26,100:D97757&height=180&section=header&text=Keerat%20Singh%20Jaggi&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=B.Tech%20CSE%20%E2%80%94%20AI%20%26%20Machine%20Learning%20%C2%B7%20VIT%20Bhopal%20'29&descAlignY=56&descSize=16&animation=fadeIn" alt="Keerat Singh Jaggi">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7D2A26,100:D97757&height=170&section=header&text=Keerat%20Singh%20Jaggi&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Keerat Singh Jaggi">
+
+<h3 align="center">B.Tech CSE — Artificial Intelligence &amp; Machine Learning · VIT Bhopal '29</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=560&lines=SQL+%7C+Python+%7C+Data+Analysis;Relational+database+design;Turning+curiosity+into+code" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Data+Analysis;Relational+database+design;Turning+curiosity+into+code" alt="Typing SVG">
   </a>
 </p>
 
@@ -49,18 +51,5 @@
 | **[AdventureWorks SQL Lab](https://github.com/keeratcodes/adventureworks-sql-lab)** | Joins, date functions and aggregations against Microsoft's AdventureWorks2012 — revenue trends and customer lifetime value. |
 | **[User Roles Schema](https://github.com/keeratcodes/user-roles-sql)** | A 5-table relational schema taken from ER diagram to SQL Server DDL, with full key constraints. |
 | **ECO-TWIN Punjab** *(private, in progress)* | A gamified environmental decision-simulator for Smart India Hackathon problem statement SIH25009, built around the Panj Tattva five elements. Concept, domain research and product design; 6-member team. |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keeratcodes&show_icons=true&hide_border=true&title_color=7D2A26&icon_color=D97757" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeratcodes&layout=compact&hide_border=true&title_color=7D2A26" alt="top languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=keeratcodes&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=7D2A26" alt="streak">
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:7D2A26&height=110&section=footer" alt="">
