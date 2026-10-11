@@ -1,11 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7D2A26,100:D97757&height=170&section=header&text=Keerat%20Singh%20Jaggi&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Keerat Singh Jaggi">
-
-<h3 align="center">B.Tech CSE — Artificial Intelligence &amp; Machine Learning · VIT Bhopal '29</h3>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=D97757&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Data+Analysis;Relational+database+design;Turning+curiosity+into+code" alt="Typing SVG">
-  </a>
+  <img src="assets/hero.png" width="100%" alt="Keerat Singh Jaggi - B.Tech CSE (AI &amp; ML), VIT Bhopal. Turning curiosity into code.">
 </p>
 
 <p align="center">
@@ -17,7 +11,12 @@
   </a>
 </p>
 
----
+<table align="center" width="100%">
+  <tr>
+    <td width="36%" valign="top"><img src="assets/builder-pass.png" alt="Keerat Singh Jaggi - Builder pass"></td>
+    <td width="64%" valign="top"><img src="assets/skills.png" alt="Tech stack: SQL, T-SQL, Python, Java, C, C++, SQL Server, Azure SQL Edge, MySQL, Pandas, NumPy, Docker, Git, VS Code, Claude Code"></td>
+  </tr>
+</table>
 
 ### About
 
@@ -28,24 +27,12 @@
 
 ---
 
-### Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,c,cpp,java,docker,git,vscode&theme=dark" alt="Tech stack">
+  <img src="assets/impact.png" width="100%" alt="Uber operational data analysis: 52.21% cancellation rate, 35.23% revenue leakage, $16,777 lost to failed payments, 10 SQL scripts">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Azure%20SQL%20Edge-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure SQL Edge">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=7D2A26&center=true&vCenter=true&width=460&lines=Featured+Work;Click+a+panel+to+expand" alt="Featured Work">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=D97757&center=true&vCenter=true&width=460&lines=Featured+Work;Click+a+panel+to+expand" alt="Featured Work">
 </p>
 
 <br>
@@ -82,7 +69,7 @@
 
 <details>
 <summary>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D91,100:1E88E5&height=80&section=header&text=AdventureWorks%20SQL%20Analysis&fontSize=30&fontColor=ffffff&fontAlignY=56" alt="">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7D2A26,100:D97757&height=80&section=header&text=AdventureWorks%20SQL%20Analysis&fontSize=30&fontColor=ffffff&fontAlignY=56" alt="">
   <p align="center"><i>Enterprise database querying</i></p>
 </summary>
 
@@ -103,7 +90,7 @@
 
 <details>
 <summary>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4A148C,100:9C27B0&height=80&section=header&text=Relational%20Schema%20Design&fontSize=30&fontColor=ffffff&fontAlignY=56" alt="">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7D2A26,100:D97757&height=80&section=header&text=Relational%20Schema%20Design&fontSize=30&fontColor=ffffff&fontAlignY=56" alt="">
   <p align="center"><i>ER diagram to SQL Server DDL</i></p>
 </summary>
 
@@ -132,7 +119,7 @@
 
 <details>
 <summary>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B5E20,100:66BB6A&height=80&section=header&text=ECO-TWIN%20Punjab%20%7C%20SIH25009&fontSize=30&fontColor=ffffff&fontAlignY=56" alt="">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7D2A26,100:D97757&height=80&section=header&text=ECO-TWIN%20Punjab%20%7C%20SIH25009&fontSize=30&fontColor=ffffff&fontAlignY=56" alt="">
   <p align="center"><i>Private &nbsp;·&nbsp; in progress</i></p>
 </summary>
 
